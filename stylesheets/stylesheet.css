@@ -22,8 +22,8 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-image, figure {
-	margin: 20;
+img, image, figure {
+	margin-right: 20px;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
